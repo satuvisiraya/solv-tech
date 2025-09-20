@@ -182,35 +182,35 @@ function App() {
               <div className="inline-flex items-center px-4 py-2 rounded-full bg-orange-500/10 border border-orange-500/20 backdrop-blur-sm">
                 <div className="w-2 h-2 bg-orange-500 rounded-full mr-3 animate-pulse"></div>
                 <span className="text-orange-400 text-sm font-medium">
-                  SolvTech - IT Solutions Provider
+                  SolvTech - Penyedia Solusi IT
                 </span>
               </div>
 
               {/* Main Headline */}
               <div className="space-y-6">
                 <h1 className="text-5xl lg:text-7xl font-black leading-tight">
-                  <span className="block text-white">Transform Your</span>
+                  <span className="block text-white">Transformasikan</span>
                   <span className="block bg-gradient-to-r from-orange-400 via-orange-500 to-orange-600 bg-clip-text text-transparent">
-                    Business
+                    Bisnis Anda
                   </span>
-                  <span className="block text-white">with Technology</span>
+                  <span className="block text-white">dengan Teknologi</span>
                 </h1>
 
                 <p className="text-xl lg:text-2xl text-gray-300 leading-relaxed max-w-2xl">
-                  We deliver enterprise-grade IT solutions that drive growth,
-                  efficiency, and innovation for modern businesses.
+                  Kami menyediakan solusi IT tingkat enterprise yang mendorong
+                  pertumbuhan, efisiensi, dan inovasi untuk bisnis modern.
                 </p>
               </div>
 
               {/* CTA Buttons */}
               <div className="flex flex-col sm:flex-row gap-4">
                 <button className="group relative px-8 py-4 bg-gradient-to-r from-orange-500 to-orange-600 text-white font-semibold rounded-lg hover:from-orange-600 hover:to-orange-700 transition-all duration-300 transform hover:scale-105 shadow-lg shadow-orange-500/25">
-                  <span className="relative z-10">Get Started</span>
+                  <span className="relative z-10">Mulai Sekarang</span>
                   <div className="absolute inset-0 bg-gradient-to-r from-orange-400 to-orange-500 rounded-lg opacity-0 group-hover:opacity-20 transition-opacity duration-300"></div>
                 </button>
                 <button className="group px-8 py-4 border border-orange-500/50 text-orange-400 font-semibold rounded-lg hover:bg-orange-500/10 hover:border-orange-500 transition-all duration-300 backdrop-blur-sm">
                   <span className="flex items-center">
-                    View Our Work
+                    Lihat Portfolio
                     <svg
                       className="ml-2 w-4 h-4 group-hover:translate-x-1 transition-transform duration-300"
                       fill="none"
@@ -232,15 +232,15 @@ function App() {
               <div className="flex items-center space-x-8 pt-8">
                 <div className="text-center">
                   <div className="text-2xl font-bold text-white">100+</div>
-                  <div className="text-sm text-gray-400">Projects</div>
+                  <div className="text-sm text-gray-400">Proyek</div>
                 </div>
                 <div className="text-center">
                   <div className="text-2xl font-bold text-white">50+</div>
-                  <div className="text-sm text-gray-400">Clients</div>
+                  <div className="text-sm text-gray-400">Klien</div>
                 </div>
                 <div className="text-center">
                   <div className="text-2xl font-bold text-white">24/7</div>
-                  <div className="text-sm text-gray-400">Support</div>
+                  <div className="text-sm text-gray-400">Dukungan</div>
                 </div>
               </div>
             </div>
@@ -278,19 +278,19 @@ function App() {
             <div className="inline-flex items-center px-4 py-2 rounded-full bg-orange-500/10 border border-orange-500/20 backdrop-blur-sm mb-6">
               <div className="w-2 h-2 bg-orange-500 rounded-full mr-3"></div>
               <span className="text-orange-400 text-sm font-medium">
-                Why Choose Us
+                Mengapa Memilih Kami
               </span>
             </div>
             <h2 className="text-5xl lg:text-6xl font-black text-white mb-6">
-              Enterprise-Grade
+              Solusi IT
               <span className="block bg-gradient-to-r from-orange-400 to-orange-600 bg-clip-text text-transparent">
-                IT Solutions
+                Tingkat Enterprise
               </span>
             </h2>
             <p className="text-xl text-gray-300 max-w-4xl mx-auto leading-relaxed">
-              We combine cutting-edge technology with proven methodologies to
-              deliver scalable, secure, and innovative solutions that drive
-              business growth.
+              Kami menggabungkan teknologi terdepan dengan metodologi yang
+              terbukti untuk memberikan solusi yang scalable, aman, dan inovatif
+              yang mendorong pertumbuhan bisnis.
             </p>
           </div>
 
@@ -316,11 +316,11 @@ function App() {
                   </svg>
                 </div>
                 <h3 className="text-xl font-bold text-white mb-4">
-                  Enterprise Security
+                  Keamanan Enterprise
                 </h3>
                 <p className="text-gray-400 leading-relaxed">
-                  Bank-grade security protocols and compliance standards for
-                  maximum data protection.
+                  Protokol keamanan tingkat bank dan standar compliance untuk
+                  perlindungan data maksimal.
                 </p>
               </div>
             </div>
@@ -345,11 +345,11 @@ function App() {
                   </svg>
                 </div>
                 <h3 className="text-xl font-bold text-white mb-4">
-                  Rapid Deployment
+                  Deployment Cepat
                 </h3>
                 <p className="text-gray-400 leading-relaxed">
-                  Agile development methodology ensuring faster time-to-market
-                  with continuous delivery.
+                  Metodologi pengembangan agile yang memastikan time-to-market
+                  lebih cepat dengan continuous delivery.
                 </p>
               </div>
             </div>
@@ -374,11 +374,11 @@ function App() {
                   </svg>
                 </div>
                 <h3 className="text-xl font-bold text-white mb-4">
-                  Scalable Solutions
+                  Solusi Scalable
                 </h3>
                 <p className="text-gray-400 leading-relaxed">
-                  Cloud-native architecture designed to grow with your business
-                  needs and user base.
+                  Arsitektur cloud-native yang dirancang untuk berkembang sesuai
+                  kebutuhan bisnis dan basis pengguna Anda.
                 </p>
               </div>
             </div>
@@ -403,11 +403,11 @@ function App() {
                   </svg>
                 </div>
                 <h3 className="text-xl font-bold text-white mb-4">
-                  24/7 Support
+                  Dukungan 24/7
                 </h3>
                 <p className="text-gray-400 leading-relaxed">
-                  Round-the-clock technical support and monitoring to ensure
-                  optimal system performance.
+                  Dukungan teknis dan monitoring 24 jam untuk memastikan
+                  performa sistem yang optimal.
                 </p>
               </div>
             </div>
@@ -430,18 +430,19 @@ function App() {
             <div className="inline-flex items-center px-4 py-2 rounded-full bg-orange-500/10 border border-orange-500/20 backdrop-blur-sm mb-6">
               <div className="w-2 h-2 bg-orange-500 rounded-full mr-3"></div>
               <span className="text-orange-400 text-sm font-medium">
-                Our Services
+                Layanan Kami
               </span>
             </div>
             <h2 className="text-5xl lg:text-6xl font-black text-white mb-6">
-              Comprehensive
+              Solusi IT
               <span className="block bg-gradient-to-r from-orange-400 to-orange-600 bg-clip-text text-transparent">
-                IT Solutions
+                Komprehensif
               </span>
             </h2>
             <p className="text-xl text-gray-300 max-w-4xl mx-auto leading-relaxed">
-              From concept to deployment, we provide end-to-end technology
-              solutions that transform businesses and drive digital innovation.
+              Dari konsep hingga deployment, kami menyediakan solusi teknologi
+              end-to-end yang mentransformasi bisnis dan mendorong inovasi
+              digital.
             </p>
           </div>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -464,27 +465,47 @@ function App() {
                   </svg>
                 </div>
                 <h3 className="text-xl font-bold text-white mb-4">
-                  Web Development
+                  Pengembangan Web
                 </h3>
                 <p className="text-gray-400 leading-relaxed mb-6">
-                  Custom web applications built with modern frameworks,
-                  optimized for performance and scalability.
+                  Aplikasi web custom yang dibangun dengan framework modern,
+                  dioptimalkan untuk performa dan skalabilitas.
                 </p>
-                <div className="flex items-center text-orange-400 font-medium group-hover:text-orange-300 transition-colors duration-300">
-                  <span className="text-sm">Learn More</span>
-                  <svg
-                    className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform duration-300"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
+                <div className="flex items-center justify-between">
+                  <div className="flex items-center text-orange-400 font-medium group-hover:text-orange-300 transition-colors duration-300">
+                    <span className="text-sm">Pelajari Lebih Lanjut</span>
+                    <svg
+                      className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform duration-300"
+                      fill="none"
+                      stroke="currentColor"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeWidth={2}
+                        d="M9 5l7 7-7 7"
+                      />
+                    </svg>
+                  </div>
+                  <a
+                    href="https://wa.me/0882003843947?text=Halo%20SolvTech,%20saya%20tertarik%20dengan%20layanan%20Web%20Development"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="group/btn relative bg-gradient-to-r from-green-500 to-green-600 text-white px-4 py-2 rounded-lg text-sm font-semibold hover:from-green-600 hover:to-green-700 transition-all duration-300 transform hover:scale-105 shadow-lg shadow-green-500/25"
                   >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={2}
-                      d="M9 5l7 7-7 7"
-                    />
-                  </svg>
+                    <span className="flex items-center">
+                      <svg
+                        className="w-4 h-4 mr-2"
+                        fill="currentColor"
+                        viewBox="0 0 24 24"
+                      >
+                        <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893A11.821 11.821 0 0020.885 3.488" />
+                      </svg>
+                      Hubungi
+                    </span>
+                    <div className="absolute inset-0 bg-gradient-to-r from-green-400 to-green-500 rounded-lg opacity-0 group-hover/btn:opacity-20 transition-opacity duration-300"></div>
+                  </a>
                 </div>
               </div>
             </div>
@@ -507,27 +528,47 @@ function App() {
                   </svg>
                 </div>
                 <h3 className="text-xl font-bold text-white mb-4">
-                  Mobile Development
+                  Pengembangan Mobile
                 </h3>
                 <p className="text-gray-400 leading-relaxed mb-6">
-                  Native and cross-platform mobile applications that deliver
-                  exceptional user experiences.
+                  Aplikasi mobile native dan cross-platform yang memberikan
+                  pengalaman pengguna yang luar biasa.
                 </p>
-                <div className="flex items-center text-orange-400 font-medium group-hover:text-orange-300 transition-colors duration-300">
-                  <span className="text-sm">Learn More</span>
-                  <svg
-                    className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform duration-300"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
+                <div className="flex items-center justify-between">
+                  <div className="flex items-center text-orange-400 font-medium group-hover:text-orange-300 transition-colors duration-300">
+                    <span className="text-sm">Pelajari Lebih Lanjut</span>
+                    <svg
+                      className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform duration-300"
+                      fill="none"
+                      stroke="currentColor"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeWidth={2}
+                        d="M9 5l7 7-7 7"
+                      />
+                    </svg>
+                  </div>
+                  <a
+                    href="https://wa.me/0882003843947?text=Halo%20SolvTech,%20saya%20tertarik%20dengan%20layanan%20Mobile%20Development"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="group/btn relative bg-gradient-to-r from-green-500 to-green-600 text-white px-4 py-2 rounded-lg text-sm font-semibold hover:from-green-600 hover:to-green-700 transition-all duration-300 transform hover:scale-105 shadow-lg shadow-green-500/25"
                   >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={2}
-                      d="M9 5l7 7-7 7"
-                    />
-                  </svg>
+                    <span className="flex items-center">
+                      <svg
+                        className="w-4 h-4 mr-2"
+                        fill="currentColor"
+                        viewBox="0 0 24 24"
+                      >
+                        <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893A11.821 11.821 0 0020.885 3.488" />
+                      </svg>
+                      Hubungi
+                    </span>
+                    <div className="absolute inset-0 bg-gradient-to-r from-green-400 to-green-500 rounded-lg opacity-0 group-hover/btn:opacity-20 transition-opacity duration-300"></div>
+                  </a>
                 </div>
               </div>
             </div>
@@ -556,27 +597,47 @@ function App() {
                   </svg>
                 </div>
                 <h3 className="text-xl font-bold text-white mb-4">
-                  Enterprise Systems
+                  Sistem Enterprise
                 </h3>
                 <p className="text-gray-400 leading-relaxed mb-6">
-                  Custom ERP and business management systems that streamline
-                  operations and improve efficiency.
+                  Sistem ERP custom dan manajemen bisnis yang merampingkan
+                  operasi dan meningkatkan efisiensi.
                 </p>
-                <div className="flex items-center text-purple-400 font-semibold group-hover:text-purple-300 transition-colors duration-300">
-                  <span className="text-sm">Learn More</span>
-                  <svg
-                    className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform duration-300"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
+                <div className="flex items-center justify-between">
+                  <div className="flex items-center text-orange-400 font-medium group-hover:text-orange-300 transition-colors duration-300">
+                    <span className="text-sm">Pelajari Lebih Lanjut</span>
+                    <svg
+                      className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform duration-300"
+                      fill="none"
+                      stroke="currentColor"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeWidth={2}
+                        d="M9 5l7 7-7 7"
+                      />
+                    </svg>
+                  </div>
+                  <a
+                    href="https://wa.me/0882003843947?text=Halo%20SolvTech,%20saya%20tertarik%20dengan%20layanan%20Enterprise%20Systems"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="group/btn relative bg-gradient-to-r from-green-500 to-green-600 text-white px-4 py-2 rounded-lg text-sm font-semibold hover:from-green-600 hover:to-green-700 transition-all duration-300 transform hover:scale-105 shadow-lg shadow-green-500/25"
                   >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={2}
-                      d="M9 5l7 7-7 7"
-                    />
-                  </svg>
+                    <span className="flex items-center">
+                      <svg
+                        className="w-4 h-4 mr-2"
+                        fill="currentColor"
+                        viewBox="0 0 24 24"
+                      >
+                        <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893A11.821 11.821 0 0020.885 3.488" />
+                      </svg>
+                      Hubungi
+                    </span>
+                    <div className="absolute inset-0 bg-gradient-to-r from-green-400 to-green-500 rounded-lg opacity-0 group-hover/btn:opacity-20 transition-opacity duration-300"></div>
+                  </a>
                 </div>
               </div>
             </div>
@@ -599,27 +660,47 @@ function App() {
                   </svg>
                 </div>
                 <h3 className="text-xl font-bold text-white mb-4">
-                  UI/UX Design
+                  Desain UI/UX
                 </h3>
                 <p className="text-gray-400 leading-relaxed mb-6">
-                  User-centered design solutions that enhance user experience
-                  and drive engagement.
+                  Solusi desain berpusat pada pengguna yang meningkatkan
+                  pengalaman pengguna dan mendorong engagement.
                 </p>
-                <div className="flex items-center text-orange-400 font-semibold group-hover:text-orange-300 transition-colors duration-300">
-                  <span className="text-sm">Learn More</span>
-                  <svg
-                    className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform duration-300"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
+                <div className="flex items-center justify-between">
+                  <div className="flex items-center text-orange-400 font-medium group-hover:text-orange-300 transition-colors duration-300">
+                    <span className="text-sm">Pelajari Lebih Lanjut</span>
+                    <svg
+                      className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform duration-300"
+                      fill="none"
+                      stroke="currentColor"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeWidth={2}
+                        d="M9 5l7 7-7 7"
+                      />
+                    </svg>
+                  </div>
+                  <a
+                    href="https://wa.me/0882003843947?text=Halo%20SolvTech,%20saya%20tertarik%20dengan%20layanan%20UI/UX%20Design"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="group/btn relative bg-gradient-to-r from-green-500 to-green-600 text-white px-4 py-2 rounded-lg text-sm font-semibold hover:from-green-600 hover:to-green-700 transition-all duration-300 transform hover:scale-105 shadow-lg shadow-green-500/25"
                   >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={2}
-                      d="M9 5l7 7-7 7"
-                    />
-                  </svg>
+                    <span className="flex items-center">
+                      <svg
+                        className="w-4 h-4 mr-2"
+                        fill="currentColor"
+                        viewBox="0 0 24 24"
+                      >
+                        <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893A11.821 11.821 0 0020.885 3.488" />
+                      </svg>
+                      Hubungi
+                    </span>
+                    <div className="absolute inset-0 bg-gradient-to-r from-green-400 to-green-500 rounded-lg opacity-0 group-hover/btn:opacity-20 transition-opacity duration-300"></div>
+                  </a>
                 </div>
               </div>
             </div>
@@ -642,27 +723,47 @@ function App() {
                   </svg>
                 </div>
                 <h3 className="text-xl font-bold text-white mb-4">
-                  Digital Marketing
+                  Pemasaran Digital
                 </h3>
                 <p className="text-gray-400 leading-relaxed mb-6">
-                  Strategic digital marketing campaigns that drive engagement
-                  and convert prospects into customers.
+                  Kampanye pemasaran digital strategis yang mendorong engagement
+                  dan mengkonversi prospek menjadi pelanggan.
                 </p>
-                <div className="flex items-center text-orange-400 font-semibold group-hover:text-orange-300 transition-colors duration-300">
-                  <span className="text-sm">Learn More</span>
-                  <svg
-                    className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform duration-300"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
+                <div className="flex items-center justify-between">
+                  <div className="flex items-center text-orange-400 font-medium group-hover:text-orange-300 transition-colors duration-300">
+                    <span className="text-sm">Pelajari Lebih Lanjut</span>
+                    <svg
+                      className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform duration-300"
+                      fill="none"
+                      stroke="currentColor"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeWidth={2}
+                        d="M9 5l7 7-7 7"
+                      />
+                    </svg>
+                  </div>
+                  <a
+                    href="https://wa.me/0882003843947?text=Halo%20SolvTech,%20saya%20tertarik%20dengan%20layanan%20Digital%20Marketing"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="group/btn relative bg-gradient-to-r from-green-500 to-green-600 text-white px-4 py-2 rounded-lg text-sm font-semibold hover:from-green-600 hover:to-green-700 transition-all duration-300 transform hover:scale-105 shadow-lg shadow-green-500/25"
                   >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={2}
-                      d="M9 5l7 7-7 7"
-                    />
-                  </svg>
+                    <span className="flex items-center">
+                      <svg
+                        className="w-4 h-4 mr-2"
+                        fill="currentColor"
+                        viewBox="0 0 24 24"
+                      >
+                        <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893A11.821 11.821 0 0020.885 3.488" />
+                      </svg>
+                      Hubungi
+                    </span>
+                    <div className="absolute inset-0 bg-gradient-to-r from-green-400 to-green-500 rounded-lg opacity-0 group-hover/btn:opacity-20 transition-opacity duration-300"></div>
+                  </a>
                 </div>
               </div>
             </div>
@@ -685,27 +786,47 @@ function App() {
                   </svg>
                 </div>
                 <h3 className="text-xl font-bold text-white mb-4">
-                  Cloud Solutions
+                  Solusi Cloud
                 </h3>
                 <p className="text-gray-400 leading-relaxed mb-6">
-                  Scalable cloud infrastructure and migration services for
-                  modern business operations.
+                  Infrastruktur cloud yang scalable dan layanan migrasi untuk
+                  operasi bisnis modern.
                 </p>
-                <div className="flex items-center text-orange-400 font-semibold group-hover:text-orange-300 transition-colors duration-300">
-                  <span className="text-sm">Learn More</span>
-                  <svg
-                    className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform duration-300"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
+                <div className="flex items-center justify-between">
+                  <div className="flex items-center text-orange-400 font-medium group-hover:text-orange-300 transition-colors duration-300">
+                    <span className="text-sm">Pelajari Lebih Lanjut</span>
+                    <svg
+                      className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform duration-300"
+                      fill="none"
+                      stroke="currentColor"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeWidth={2}
+                        d="M9 5l7 7-7 7"
+                      />
+                    </svg>
+                  </div>
+                  <a
+                    href="https://wa.me/0882003843947?text=Halo%20SolvTech,%20saya%20tertarik%20dengan%20layanan%20Cloud%20Solutions"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="group/btn relative bg-gradient-to-r from-green-500 to-green-600 text-white px-4 py-2 rounded-lg text-sm font-semibold hover:from-green-600 hover:to-green-700 transition-all duration-300 transform hover:scale-105 shadow-lg shadow-green-500/25"
                   >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={2}
-                      d="M9 5l7 7-7 7"
-                    />
-                  </svg>
+                    <span className="flex items-center">
+                      <svg
+                        className="w-4 h-4 mr-2"
+                        fill="currentColor"
+                        viewBox="0 0 24 24"
+                      >
+                        <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893A11.821 11.821 0 0020.885 3.488" />
+                      </svg>
+                      Hubungi
+                    </span>
+                    <div className="absolute inset-0 bg-gradient-to-r from-green-400 to-green-500 rounded-lg opacity-0 group-hover/btn:opacity-20 transition-opacity duration-300"></div>
+                  </a>
                 </div>
               </div>
             </div>
@@ -758,18 +879,19 @@ function App() {
             <div className="inline-flex items-center px-4 py-2 rounded-full bg-orange-500/10 border border-orange-500/20 backdrop-blur-sm mb-6">
               <div className="w-2 h-2 bg-orange-500 rounded-full mr-3"></div>
               <span className="text-orange-400 text-sm font-medium">
-                Client Success Stories
+                Kisah Sukses Klien
               </span>
             </div>
             <h2 className="text-5xl lg:text-6xl font-black text-white mb-6">
-              Trusted by
+              Dipercaya oleh
               <span className="block bg-gradient-to-r from-orange-400 to-orange-600 bg-clip-text text-transparent">
-                Industry Leaders
+                Pemimpin Industri
               </span>
             </h2>
             <p className="text-xl text-gray-300 max-w-4xl mx-auto leading-relaxed">
-              Discover how we've helped businesses transform their operations
-              and achieve digital excellence through innovative IT solutions.
+              Temukan bagaimana kami telah membantu bisnis mentransformasi
+              operasi mereka dan mencapai keunggulan digital melalui solusi IT
+              yang inovatif.
             </p>
           </div>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -800,10 +922,10 @@ function App() {
                   </div>
                 </div>
                 <blockquote className="text-gray-300 leading-relaxed mb-6">
-                  "SolvTech delivered an exceptional cloud migration that
-                  reduced our infrastructure costs by 40% while improving
-                  performance. Their expertise in enterprise architecture is
-                  unmatched."
+                  "SolvTech memberikan migrasi cloud yang luar biasa yang
+                  mengurangi biaya infrastruktur kami sebesar 40% sambil
+                  meningkatkan performa. Keahlian mereka dalam arsitektur
+                  enterprise tidak tertandingi."
                 </blockquote>
                 <div className="flex items-center">
                   <div className="flex text-orange-400">
@@ -849,9 +971,9 @@ function App() {
                   </div>
                 </div>
                 <blockquote className="text-gray-300 leading-relaxed mb-6">
-                  "The mobile application SolvTech developed for us has
-                  revolutionized our customer engagement. The user experience is
-                  flawless and the performance is outstanding."
+                  "Aplikasi mobile yang dikembangkan SolvTech untuk kami telah
+                  merevolusi customer engagement kami. User experience-nya
+                  sempurna dan performanya luar biasa."
                 </blockquote>
                 <div className="flex items-center">
                   <div className="flex text-orange-400">
@@ -897,9 +1019,10 @@ function App() {
                   </div>
                 </div>
                 <blockquote className="text-gray-300 leading-relaxed mb-6">
-                  "SolvTech's enterprise system integration exceeded our
-                  expectations. Their attention to detail and commitment to
-                  quality is evident in every project they deliver."
+                  "Integrasi sistem enterprise SolvTech melampaui ekspektasi
+                  kami. Perhatian mereka terhadap detail dan komitmen terhadap
+                  kualitas terlihat jelas dalam setiap proyek yang mereka
+                  kirimkan."
                 </blockquote>
                 <div className="flex items-center">
                   <div className="flex text-orange-400">
@@ -935,28 +1058,28 @@ function App() {
             <div className="inline-flex items-center px-4 py-2 rounded-full bg-white/10 border border-white/20 backdrop-blur-sm mb-8">
               <div className="w-2 h-2 bg-white rounded-full mr-3 animate-pulse"></div>
               <span className="text-white text-sm font-medium">
-                Ready to Transform?
+                Siap Bertransformasi?
               </span>
             </div>
 
             {/* Main CTA Content */}
             <h2 className="text-5xl lg:text-7xl font-black mb-8 leading-tight">
-              Ready to Transform Your
+              Siap Mentransformasi
               <span className="block text-white">
-                Business with Technology?
+                Bisnis Anda dengan Teknologi?
               </span>
             </h2>
             <p className="text-xl lg:text-2xl mb-12 text-orange-100 max-w-4xl mx-auto leading-relaxed">
-              Join industry leaders who trust SolvTech for their digital
-              transformation. Get a free consultation and discover how we can
-              accelerate your growth.
+              Bergabunglah dengan pemimpin industri yang mempercayai SolvTech
+              untuk transformasi digital mereka. Dapatkan konsultasi gratis dan
+              temukan bagaimana kami dapat mempercepat pertumbuhan Anda.
             </p>
 
             {/* CTA Buttons */}
             <div className="flex flex-col sm:flex-row gap-6 justify-center items-center mb-12">
               <button className="group relative bg-white text-orange-600 font-bold py-5 px-10 rounded-xl text-lg hover:bg-gray-100 transition-all transform hover:scale-105 shadow-2xl shadow-black/25">
                 <span className="relative z-10 flex items-center">
-                  Get Free Consultation
+                  Konsultasi Gratis
                   <svg
                     className="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform duration-300"
                     fill="none"
@@ -975,7 +1098,7 @@ function App() {
               </button>
               <button className="group px-8 py-5 border-2 border-white/50 text-white font-semibold rounded-xl hover:bg-white/10 hover:border-white transition-all duration-300 backdrop-blur-sm">
                 <span className="flex items-center">
-                  View Our Portfolio
+                  Lihat Portfolio Kami
                   <svg
                     className="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform duration-300"
                     fill="none"
@@ -1007,7 +1130,7 @@ function App() {
                     clipRule="evenodd"
                   />
                 </svg>
-                <span className="text-sm font-medium">Free Consultation</span>
+                <span className="text-sm font-medium">Konsultasi Gratis</span>
               </div>
               <div className="flex items-center">
                 <svg
@@ -1021,7 +1144,7 @@ function App() {
                     clipRule="evenodd"
                   />
                 </svg>
-                <span className="text-sm font-medium">24/7 Support</span>
+                <span className="text-sm font-medium">Dukungan 24/7</span>
               </div>
               <div className="flex items-center">
                 <svg
@@ -1035,7 +1158,7 @@ function App() {
                     clipRule="evenodd"
                   />
                 </svg>
-                <span className="text-sm font-medium">Enterprise Security</span>
+                <span className="text-sm font-medium">Keamanan Enterprise</span>
               </div>
             </div>
           </div>
@@ -1065,9 +1188,9 @@ function App() {
                 </span>
               </div>
               <p className="text-gray-300 mb-8 text-lg leading-relaxed max-w-md">
-                Leading provider of enterprise-grade IT solutions that drive
-                digital transformation and accelerate business growth through
-                innovative technology.
+                Penyedia terkemuka solusi IT tingkat enterprise yang mendorong
+                transformasi digital dan mempercepat pertumbuhan bisnis melalui
+                teknologi inovatif.
               </p>
 
               {/* Social Links */}
@@ -1112,7 +1235,7 @@ function App() {
             </div>
             <div>
               <h3 className="text-xl font-bold mb-8 text-orange-400">
-                Get In Touch
+                Hubungi Kami
               </h3>
               <div className="space-y-4">
                 <div className="flex items-center space-x-3">
@@ -1207,44 +1330,44 @@ function App() {
             {/* Quick Links */}
             <div>
               <h3 className="text-xl font-bold mb-8 text-orange-400">
-                Quick Links
+                Tautan Cepat
               </h3>
               <div className="space-y-4">
                 <a
                   href="#about"
                   className="block text-gray-300 hover:text-orange-400 transition-colors duration-300"
                 >
-                  About Us
+                  Tentang Kami
                 </a>
                 <a
                   href="#services"
                   className="block text-gray-300 hover:text-orange-400 transition-colors duration-300"
                 >
-                  Services
+                  Layanan
                 </a>
                 <a
                   href="#testimonials"
                   className="block text-gray-300 hover:text-orange-400 transition-colors duration-300"
                 >
-                  Testimonials
+                  Testimoni
                 </a>
                 <a
                   href="#contact"
                   className="block text-gray-300 hover:text-orange-400 transition-colors duration-300"
                 >
-                  Contact
+                  Kontak
                 </a>
                 <a
                   href="#"
                   className="block text-gray-300 hover:text-orange-400 transition-colors duration-300"
                 >
-                  Privacy Policy
+                  Kebijakan Privasi
                 </a>
                 <a
                   href="#"
                   className="block text-gray-300 hover:text-orange-400 transition-colors duration-300"
                 >
-                  Terms of Service
+                  Syarat Layanan
                 </a>
               </div>
             </div>
@@ -1252,7 +1375,7 @@ function App() {
           <div className="border-t border-orange-500/20 mt-12 pt-8">
             <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
               <p className="text-white text-center md:text-left font-medium drop-shadow-sm">
-                © 2024 SolvTech. All rights reserved.
+                © 2024 SolvTech. Semua hak dilindungi.
               </p>
               <div className="flex space-x-6 text-sm">
                 <a
