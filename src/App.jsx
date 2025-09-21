@@ -489,7 +489,7 @@ function App() {
                     </svg>
                   </div>
                   <a
-                    href="https://wa.me/+6288200384397?text=Halo%20SolvTech,%20saya%20tertarik%20dengan%20layanan%20Web%20Development"
+                    href="https://wa.me/+62882003843947?text=Halo%20SolvTech,%20saya%20tertarik%20dengan%20layanan%20Web%20Development"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="group/btn relative bg-gradient-to-r from-green-500 to-green-600 text-white px-4 py-2 rounded-lg text-sm font-semibold hover:from-green-600 hover:to-green-700 transition-all duration-300 transform hover:scale-105 shadow-lg shadow-green-500/25"
@@ -552,7 +552,7 @@ function App() {
                     </svg>
                   </div>
                   <a
-                    href="https://wa.me/+6288200384397?text=Halo%20SolvTech,%20saya%20tertarik%20dengan%20layanan%20Mobile%20Development"
+                    href="https://wa.me/+62882003843947?text=Halo%20SolvTech,%20saya%20tertarik%20dengan%20layanan%20Mobile%20Development"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="group/btn relative bg-gradient-to-r from-green-500 to-green-600 text-white px-4 py-2 rounded-lg text-sm font-semibold hover:from-green-600 hover:to-green-700 transition-all duration-300 transform hover:scale-105 shadow-lg shadow-green-500/25"
@@ -621,7 +621,7 @@ function App() {
                     </svg>
                   </div>
                   <a
-                    href="https://wa.me/+6288200384397?text=Halo%20SolvTech,%20saya%20tertarik%20dengan%20layanan%20Enterprise%20Systems"
+                    href="https://wa.me/+62882003843947?text=Halo%20SolvTech,%20saya%20tertarik%20dengan%20layanan%20Enterprise%20Systems"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="group/btn relative bg-gradient-to-r from-green-500 to-green-600 text-white px-4 py-2 rounded-lg text-sm font-semibold hover:from-green-600 hover:to-green-700 transition-all duration-300 transform hover:scale-105 shadow-lg shadow-green-500/25"
@@ -684,7 +684,7 @@ function App() {
                     </svg>
                   </div>
                   <a
-                    href="https://wa.me/+6288200384397?text=Halo%20SolvTech,%20saya%20tertarik%20dengan%20layanan%20UI/UX%20Design"
+                    href="https://wa.me/+62882003843947?text=Halo%20SolvTech,%20saya%20tertarik%20dengan%20layanan%20UI/UX%20Design"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="group/btn relative bg-gradient-to-r from-green-500 to-green-600 text-white px-4 py-2 rounded-lg text-sm font-semibold hover:from-green-600 hover:to-green-700 transition-all duration-300 transform hover:scale-105 shadow-lg shadow-green-500/25"
@@ -747,7 +747,7 @@ function App() {
                     </svg>
                   </div>
                   <a
-                    href="https://wa.me/+6288200384397?text=Halo%20SolvTech,%20saya%20tertarik%20dengan%20layanan%20Digital%20Marketing"
+                    href="https://wa.me/+62882003843947?text=Halo%20SolvTech,%20saya%20tertarik%20dengan%20layanan%20Digital%20Marketing"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="group/btn relative bg-gradient-to-r from-green-500 to-green-600 text-white px-4 py-2 rounded-lg text-sm font-semibold hover:from-green-600 hover:to-green-700 transition-all duration-300 transform hover:scale-105 shadow-lg shadow-green-500/25"
@@ -810,7 +810,7 @@ function App() {
                     </svg>
                   </div>
                   <a
-                    href="https://wa.me/+6288200384397?text=Halo%20SolvTech,%20saya%20tertarik%20dengan%20layanan%20Cloud%20Solutions"
+                    href="https://wa.me/+62882003843947?text=Halo%20SolvTech,%20saya%20tertarik%20dengan%20layanan%20Cloud%20Solutions"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="group/btn relative bg-gradient-to-r from-green-500 to-green-600 text-white px-4 py-2 rounded-lg text-sm font-semibold hover:from-green-600 hover:to-green-700 transition-all duration-300 transform hover:scale-105 shadow-lg shadow-green-500/25"
