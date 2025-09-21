@@ -489,7 +489,7 @@ function App() {
                     </svg>
                   </div>
                   <a
-                    href="https://wa.me/+62 882-0038-43947?text=Halo%20SolvTech,%20saya%20tertarik%20dengan%20layanan%20Web%20Development"
+                    href="https://wa.me/+62882-0038-43947?text=Halo%20SolvTech,%20saya%20tertarik%20dengan%20layanan%20Web%20Development"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="group/btn relative bg-gradient-to-r from-green-500 to-green-600 text-white px-4 py-2 rounded-lg text-sm font-semibold hover:from-green-600 hover:to-green-700 transition-all duration-300 transform hover:scale-105 shadow-lg shadow-green-500/25"
